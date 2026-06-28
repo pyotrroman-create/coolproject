@@ -1,0 +1,46 @@
+.footer {
+    background-color: #52606D;
+    font-size: 22px;
+    width: 100%;
+    min-height: 370px;
+}
+
+.section {
+    padding: 56px 100px 65px;
+}
+
+.ul {
+    list-style: none;
+    justify-content: space-between;
+    display: flex;
+    padding-bottom: 48px;
+}
+
+
+.ul a {
+    text-decoration: none;
+    color: #D0E8FF;
+}
+
+.title {
+    font-size: 22px;
+    font-weight: 700;
+    color: #FFFFFF;
+    padding-bottom: 55px;
+}
+
+.line {
+    height: 2px;
+    background-color: #465461;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 54px;
+}
+
+.socials {
+    display: flex;
+    gap: 36.1px;
+}
